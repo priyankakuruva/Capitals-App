@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.capitals-container {
+  background-color: #f8fafc;
+  border: 0.2px solid #cbd2d9;
+  border-radius: 8px;
+  padding: 40px;
+}
+.heading {
+  color: #323f4b;
+}
+.select-option {
+  border: 0.5px solid #323f4b;
+}
+.question-para {
+  display: inline;
+  padding-left: 10px;
+  color: #000000;
+}
+.answer-para {
+  color: #1e293b;
+}
